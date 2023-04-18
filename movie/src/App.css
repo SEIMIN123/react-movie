@@ -11,7 +11,7 @@ body {
 
 html,
 body,
-.container {
+#movieapp .container {
   height: 100%;
   display: flex;
   justify-content: center;
